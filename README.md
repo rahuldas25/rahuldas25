@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sscuber03&label=Profile%20views&style=for-the-badge" alt="Sscuber03" /> </p> -->
 
-- 📚 I'm a Final year ECE Student at RCC Institute of Information Technology.
+- 📚 I'm graduated from ECE at RCC Institute of Information Technology.
 - 🌱 I’m currently learning **SpringBoot,Core Java, DSA**.
 - 👀 I’m interested in learning more about **Java Backend and Cloud**.
 - 💞️ I’m looking to contribute everywhere possible, and learn from the collaborations.
