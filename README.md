@@ -26,7 +26,7 @@
 
 ## 🔧 Focus Area 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  ![HIBERNATE](https://img.shields.io/badge/Hibernate%20-ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 
 # 💻 Additional Tech Stack:
@@ -67,6 +67,6 @@
 # 📊 GitHub Stats:
 
 
-![Rahul Das's GitHub Stats](https://github-readme-stats.vercel.app/api?username=debuginc0de&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debuginc0de&layout=compact&theme=gruvbox)
-[![GitHub Streak](https://streak-stats.demolab.com?user=debuginc0de&theme=gruvbox)](https://git.io/streak-stats)
+![Rahul Das's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahuldas25&show_icons=true&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldas25&layout=compact&theme=gruvbox)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rahuldas25&theme=gruvbox)](https://git.io/streak-stats)
