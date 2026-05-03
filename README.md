@@ -1,25 +1,19 @@
-<h1 align="center">Hello!👋 I am Rahul Das.</h1>
-<h3 align="center">Engineering Student, Developer and Technology enthusiast</h3>
+<h1 align="center">Hi Github Community! 👋 I'm Rahul Das</h1>
+<h3 align="center">Developer and Technology enthusiast</h3>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sscuber03&label=Profile%20views&style=for-the-badge" alt="Sscuber03" /> </p> -->
-
-- 📚 I'm graduated from ECE at RCC Institute of Information Technology.
-- 🌱 I’m currently learning **SpringBoot,Core Java, Gen AI**.
-- 👀 I’m interested in learning more about **Java Fullstack and Cloud**.
-- 💞️ I’m looking to contribute everywhere possible, and learn from the collaborations.
-- 📫 You can contact me at : **rd09536@gmail.com**
+Welcome to my GitHub! I’m a passionate software engineer with expertise in backend,UI always excited to tackle new challenges and build efficient, scalable solutions. My tech stack includes a mix of modern backend frameworks that allow me to build robust applications and microservices.
 
 
-<h3 align="left">📞  Contact me : <h3>
-<p align="left">
+## 🌐 Socials:
 
 
-<a href="https://www.linkedin.com/in/rahuldas04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rahul_Das" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/rd09536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Rahul_Das" height="30" width="40" /></a>
-<a href="https://www.instagram.com/debuginc0de/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rahul_Das" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100050157346903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rahul_Das" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Code_Error61/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Rahul_Das" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahuldas04/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rd09536)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/debuginc0de/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100050157346903)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Code_Error61/)
 </p>
 <br>
 
