@@ -1,3 +1,10 @@
+<!-- Header -->
+<div align="center">
+
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300"/>
+
+
+
 <h1 align="center">Hi Github Community! 👋 I'm Rahul Das</h1>
 <h3 align="center">Developer and Technology enthusiast</h3>
 
@@ -36,6 +43,7 @@ Welcome to my GitHub! I’m a passionate software engineer with expertise in bac
 
 ### 🔹 Frontend Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-7.0-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
 
 
 ---
@@ -61,7 +69,8 @@ Welcome to my GitHub! I’m a passionate software engineer with expertise in bac
 
 ### 🔹 Testing
 ![JUnit 5](https://img.shields.io/badge/JUnit-5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Selenium 5](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 
 # 📊 GitHub Stats:
